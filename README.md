@@ -1,6 +1,6 @@
 # Flower-Image-Classifier
 
-The repository contains the code for an image classifier that identifies different species of flowers. The model was submitted as the final project for [Facebook PyTorch Scholaship Challenge](https://in.udacity.com/facebook-pytorch-scholarship). 
+The repository contains the code for an image classifier that identifies different species of flowers. The model was submitted as the final project for [Facebook Udacity PyTorch Scholaship Challenge](https://in.udacity.com/facebook-pytorch-scholarship). 
 
 ### The Dataset
 
@@ -15,6 +15,6 @@ The data set contains images of flowers from 102 different species, split into a
 
 ### About
 
-Initially, the model chosen was _VGG19_, which was later shifted to _Resnet 152_ for better accuracy. Hence, the two files, `Image Classifier Project — VGG19.ipynb` and `Image Classifier Project — ResNet-150.ipynb`.
+Initially, the model chosen was _VGG19_, which was later shifted to _Resnet 152_ for better accuracy. Hence, the two files, `Image Classifier Project — VGG19.ipynb` and `Image Classifier Project — ResNet-152.ipynb`.
 
 Further details can be found in the notebook itself.
